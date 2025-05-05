@@ -8,6 +8,6 @@ provider "azurerm" {
 #    location = "East US"
 #  }
 resource "azurerm_resource_group" "example" {
-  name     = "example-rg2"
+  name     = "example-rg22"
   location = "East US"
 }
